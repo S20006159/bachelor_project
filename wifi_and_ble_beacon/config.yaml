@@ -6,6 +6,8 @@ slug: "wifi_ble_beacon"
 auth_api: true
 # Allow access to the internal api for creation and updating of entities
 homeassistant_api: true
+# Project homepage
+url: https://github.com/S20006159/bachelor_project
 # Map config folder for easy log access
 map: 
   - config:rw
