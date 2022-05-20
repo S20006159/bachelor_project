@@ -1,6 +1,6 @@
 name: "WiFi and BLE beacon server"
 description: "Bachelor project of Jan Stark"
-version: "0.0.5"
+version: "1.0.0"
 slug: "wifi_ble_beacon"
 # Allow access to the internal authentication api for the basic http auth
 auth_api: true
