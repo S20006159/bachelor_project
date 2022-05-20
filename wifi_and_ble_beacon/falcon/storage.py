@@ -15,7 +15,7 @@ class Storage:
             except ValueError:
                 pass
 
-        self.away_timer = 60
+        self.away_timer = 300
         if os.getenv("AWAY_TIMER") is not None:
             try:    
                 self.away_timer = float(os.getenv("AWAY_TIMER"))
